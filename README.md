@@ -6,13 +6,19 @@ MS in Data Science (3.9 GPA) · 8+ years shipping production systems · Open-sou
 
 ---
 
-### What I build
+### Tech stack
 
-- **LLM systems & RAG pipelines** with prompt engineering, evaluation, and agentic workflows
-- **Production ML models** (XGBoost, LightGBM, Transformers) with measurable business impact
-- **Computer vision pipelines** for real-time medical imaging and object detection
-- **End-to-end data platforms** on Azure and AWS, from ETL to executive dashboards
-- **Backend services** in Java Spring Boot and Python (FastAPI, Flask)
+**AI/ML:** Python · PyTorch · TensorFlow · XGBoost · LightGBM · Scikit-learn · NLTK · spaCy · OpenCV · YOLOv8 · LangChain · ChromaDB · Ollama · MLflow
+
+**Backend:** Java · Spring Boot · FastAPI · Flask · Node.js · REST APIs · Multithreading · JUnit · Mockito
+
+**Analytics:** Feature Engineering · EDA · DAX · Advanced SQL · ETL Pipelines · Star Schema Design · Statistical Modeling · A/B Testing
+
+**Data:** SQL Server · PostgreSQL · MySQL · MongoDB · Snowflake · Databricks · Apache Airflow · Azure Data Factory
+
+**Cloud:** AWS (SageMaker, Athena, Kinesis) · Azure (ML, Data Factory, Blob) · GCP (BigQuery, Vertex AI) · Docker · Kubernetes
+
+**Viz:** Power BI · Tableau · D3.js · Streamlit · Power Query · Matplotlib · Seaborn
 
 ---
 
