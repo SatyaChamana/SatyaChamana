@@ -22,7 +22,6 @@ MS in Data Science (3.9 GPA) · 8+ years shipping production systems · Open-sou
 |---------|-------------|-------|
 | **Hospital Readmission Dashboard** | End-to-end healthcare analytics: 30-day readmissions, financials, 4-page interactive Power BI with drill-through | Azure SQL, Power BI, DAX, Star Schema |
 | **FilmSense** | Multi-agent emotion-aware movie recommendations with Transformer-based detection | Google ADK, Gemini API, HuggingFace, n8n |
-| **RAG Generative Pipeline** | Knowledge-augmented system combining retrieval, entity recognition, and LLM evaluation | Python, RAG, NLP, Prompt Engineering |
 | **Polyp Identification** | Real-time colonoscopy polyp detection with CNNs and diagnostic visualizations | TensorFlow, OpenCV, React, D3.js |
 | **FuelFlow** | YOLOv8 + DeepSORT vehicle tracking for drive-thru efficiency and fuel analysis | YOLOv8, OpenCV, DeepSORT |
 | **DynamicDeepLearn** | Adaptive CNN framework benchmarking VGG16 and ResNet50 across MNIST/CIFAR10 | PyTorch, ResNet50, VGG16 |
