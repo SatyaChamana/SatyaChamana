@@ -50,6 +50,7 @@ MS in Data Science (3.9 GPA) · 8+ years shipping production systems · Open-sou
 - **70%+** query performance gain from MySQL-to-Azure migration
 - **92%** accuracy XGBoost classifier, reducing manual review by 60%
 - **Multi-week to 2 days** through automated charter school reporting
+- **$30K+** annual savings by building in-house analytics tools at GVSU, replacing expensive vendor applications
 - **Open-source PR merged** to RISmed R package (PubMed automation)
 
 ---
