@@ -1,6 +1,6 @@
 # Hi, I'm Satya Chamana
 
-I build AI/ML systems that solve real problems in healthcare, education, and beyond.
+I build AI/ML and distributed systems that solve real problems in healthcare, education, and beyond.
 
 MS in Data Science (3.9 GPA) · 8+ years shipping production systems · Open-source contributor
 
