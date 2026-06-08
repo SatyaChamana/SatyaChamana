@@ -33,7 +33,6 @@
 | **[graphify](https://github.com/SatyaChamana/graphify)** | Knowledge-graph compiler that turns any folder of code, docs, papers, or images into a queryable index. 687 nodes across 45 communities. Companion to my agentic PKM system. | Python (stdlib) · Knowledge Graphs · TF-IDF |
 | **[Hospital Readmission Analytics](https://github.com/SatyaChamana/hospital-readmission-analytics)** | End-to-end healthcare analytics on Mass General data: 30-day readmissions, star schema, 24+ DAX measures, 4-page Power BI dashboard aligned with CMS HRRP. | Azure SQL · Power BI · DAX |
 | **[Polyp Detection](https://github.com/SatyaChamana/Colonoscopy-Image-Processing)** | Real-time CNN polyp detection on colonoscopy video. Full-stack: TensorFlow backend, React frontend, D3.js diagnostic viz. 93% accuracy on 2,000+ images. | TensorFlow · React · Express · D3.js · OpenCV |
-| **FuelFlow** | YOLOv8 + DeepSORT drive-thru vehicle detection. Tracks wait time and idle fuel consumption at 25+ FPS with 92% detection accuracy. | Python · YOLOv8 · DeepSORT · OpenCV |
 
 ---
 
