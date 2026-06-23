@@ -30,7 +30,6 @@
 |---|---|---|
 | **[CodeLens](https://github.com/SatyaChamana/Codelens)** | Multi-model RAG over GitHub repositories. Hybrid HNSW + BM25 retrieval on 768-dim embeddings with sub-100ms p95 latency. Multi-model routing through LangChain. | Python · LangChain · Qdrant · FastAPI · Ollama |
 | **[FinSight](https://github.com/SatyaChamana/FinSight)** | Multi-tenant LSTM stock forecasting fused with real-time news sentiment. Event-driven architecture with per-tenant isolation. | Python · PyTorch (LSTM) · FastAPI · Yahoo Finance API |
-| **[graphify](https://github.com/SatyaChamana/graphify)** | Knowledge-graph compiler that turns any folder of code, docs, papers, or images into a queryable index. 687 nodes across 45 communities. Companion to my agentic PKM system. | Python (stdlib) · Knowledge Graphs · TF-IDF |
 | **[Hospital Readmission Analytics](https://github.com/SatyaChamana/hospital-readmission-analytics)** | End-to-end healthcare analytics on Mass General data: 30-day readmissions, star schema, 24+ DAX measures, 4-page Power BI dashboard aligned with CMS HRRP. | Azure SQL · Power BI · DAX |
 | **[Polyp Detection](https://github.com/SatyaChamana/Colonoscopy-Image-Processing)** | Real-time CNN polyp detection on colonoscopy video. Full-stack: TensorFlow backend, React frontend, D3.js diagnostic viz. 93% accuracy on 2,000+ images. | TensorFlow · React · Express · D3.js · OpenCV |
 
