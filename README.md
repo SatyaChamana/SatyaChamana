@@ -28,6 +28,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[RAGuard](https://github.com/SatyaChamana/RAGuard)** | Governed RAG that provably can't leak: authorization enforced as a fail-closed pre-filter inside the vector query — 0 leaks across 270 adversarial checks. Dual eval harness (classic IR + RAGAS LLM-as-judge, incl. a 3-way judge A/B) and a React observability UI showing retrieved vs. withheld context. | Python · Qdrant · Ollama · RAGAS · FastAPI · React |
 | **[CodeLens](https://github.com/SatyaChamana/Codelens)** | Multi-model RAG over GitHub repositories. Hybrid HNSW + BM25 retrieval on 768-dim embeddings with sub-100ms p95 latency. Multi-model routing through LangChain. | Python · LangChain · Qdrant · FastAPI · Ollama |
 | **[FinSight](https://github.com/SatyaChamana/FinSight)** | Multi-tenant LSTM stock forecasting fused with real-time news sentiment. Event-driven architecture with per-tenant isolation. | Python · PyTorch (LSTM) · FastAPI · Yahoo Finance API |
 | **[Hospital Readmission Analytics](https://github.com/SatyaChamana/hospital-readmission-analytics)** | End-to-end healthcare analytics on Mass General data: 30-day readmissions, star schema, 24+ DAX measures, 4-page Power BI dashboard aligned with CMS HRRP. | Azure SQL · Power BI · DAX |
