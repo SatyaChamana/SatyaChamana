@@ -60,7 +60,6 @@
 ### Recognition
 
 - **Anthropic credentials** (Apr 2026): Claude Code in Action · Introduction to Model Context Protocol · AI Fluency: Framework & Foundations
-- **Vector Space Day SF** (Jun 2026): attending on personal invite from Andre Zayarni, Qdrant CEO
 - **AI Awareness Lunch & Learn** (Aug 2025): 60+ healthcare professionals on LLMs, Agentic AI, RAG, and MCP. 95% positive feedback
 - **Dean's Scholarship**, Grand Valley State University (M.S. Data Science, 3.9 GPA)
 
